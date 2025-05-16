@@ -98,16 +98,15 @@ button {
 .address-links {
 }
 
-.address-mail,
-.address-tel {
+.address-contact {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
 }
 
-.address-mail:hover,
-.address-te:hover {
+.address-contact:hover,
+.address-contact:hover {
   color: #404bbf;
 }
 
@@ -172,7 +171,7 @@ button {
 }
 
 .team-list-item {
-  color: #ffffff;
+  background-color: #ffffff;
 }
 
 .team-img {
@@ -181,7 +180,8 @@ button {
 .team-subtitle {
 }
 
-.team-text {
+.team .team-text {
+  color: #434455;
 }
 
 /* =====PORTFOLIO===== */
