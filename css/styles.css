@@ -18,7 +18,31 @@ address {
 button {
   cursor: pointer;
 }
-/* ======= */
+
+.section-title {
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 1.11111;
+  letter-spacing: 0.02em;
+  text-align: center;
+  color: #2e2f42;
+}
+
+.subtitle {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  text-align: center;
+  color: #2e2f42;
+}
+
+.text {
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+}
+/* ======= HEADER======*/
 
 .header-logo {
   font-family: "Raleway", sans-serif;
@@ -32,4 +56,166 @@ button {
 
 .header-logo-black {
   color: #2e2f42;
+}
+
+.head-list {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+
+.header-list-item {
+}
+
+.header-list-link {
+}
+
+.header-list-link:hover {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #404bbf;
+}
+
+.header-link-studio:active {
+  color: #404bbf;
+}
+
+.address {
+}
+
+.address-list {
+}
+
+.address-list-item {
+}
+
+.address-links {
+}
+
+.address-mail,
+.address-tel {
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
+}
+
+.address-mail:hover,
+.address-te:hover {
+  color: #404bbf;
+}
+
+/* =====HEAD=SECTION===== */
+
+.head {
+  background: #2e2f42;
+}
+
+.head-title {
+  font-weight: 700;
+  font-size: 56px;
+  line-height: 1.07143;
+  letter-spacing: 0.02em;
+  text-align: center;
+  color: #fff;
+}
+
+.btn-order-service {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+  color: #fff;
+  background: #4d5ae5;
+}
+
+/* =====BENEFITS===== */
+.benefits {
+}
+
+.benefits-title {
+}
+
+.benefits-list {
+}
+
+.benefits-list-item {
+}
+
+.benefits-subtitle {
+}
+
+.benefits-list-text {
+}
+
+/* =====TEAM===== */
+.team {
+  background: #f4f4fd;
+}
+.team-title {
+}
+
+.team-list {
+}
+
+.team-list-item {
+}
+
+.team-img {
+}
+
+.team-subtitle {
+}
+
+.team-text {
+}
+
+/* =====PORTFOLIO===== */
+
+.portfolio {
+}
+
+.portfolio-title {
+}
+
+.portfolio-list {
+}
+
+.portfolio-list-item {
+}
+
+.portfolio-img {
+}
+
+.portfolio-subtitle {
+}
+
+.portfolio-list-text {
+}
+
+/* =====FOOTER===== */
+
+.footer {
+  background: #2e2f42;
+}
+
+.footer-logo {
+  font-family: "Raleway", sans-serif;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 1.16667;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  color: #f4f4fd;
+}
+
+.footer-logo-accent {
+  color: #4d5ae5;
+}
+.footer-text {
+  color: #f4f4fd;
 }
