@@ -78,10 +78,7 @@ button {
   color: #2e2f42;
 }
 
-.header-list-link:hover {
-  color: #404bbf;
-}
-
+.header-list-link:hover,
 .header-link-link:focus {
   color: #404bbf;
 }
