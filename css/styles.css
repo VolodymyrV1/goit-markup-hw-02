@@ -79,14 +79,10 @@ button {
 }
 
 .header-list-link:hover {
-  font-weight: 500;
-  font-size: 16px;
-  line-height: 1.5;
-  letter-spacing: 0.02em;
   color: #404bbf;
 }
 
-.header-link-studio:focus {
+.header-link-link:focus {
   color: #404bbf;
 }
 
@@ -173,10 +169,10 @@ button {
 }
 
 .team-list {
-  background-color: #ffffff;
 }
 
 .team-list-item {
+  color: #ffffff;
 }
 
 .team-img {
