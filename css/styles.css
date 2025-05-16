@@ -106,7 +106,7 @@ button {
 }
 
 .address-contact:hover,
-.address-contact:hover {
+.address-contact:focus {
   color: #404bbf;
 }
 
